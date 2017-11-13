@@ -1,5 +1,5 @@
 {
-    "name": "rap2hpoutre/laravel-credit-card-validator",
+    "name": "macromindonline/laravel-credit-card-validator",
     "description": "Laravel credit card validator",
     "license": "MIT",
     "keywords": ["validator", "laravel", "credit card"],
